@@ -1,0 +1,8 @@
+# project builds
+build
+
+# project dependecies
+node_modules
+
+# env files
+.env
